@@ -1,0 +1,16 @@
+An image filter that generates a noir comic style image from input.
+
+---
+# Controls
+
+'W' to enable MouseX and MouseY to map to intensity of white and black respectively.
+
+'D' to enable MouseX to map to intensity of shading lines.
+
+'E' to enable MouseX and MouseY to map to intensity of outline.
+
+'S' to save image
+
+'Q' to Quit
+
+---
